@@ -1,16 +1,8 @@
 # DataScienceEcosystem
 **Objectives:**
-- List popular languages for Data Science <br>
-   - Python
-   - R Program
-   - Github
-   - Java
-   - JavaScript
-   - Julia
-   - Scala
-   - Matlab
-   - SAS
-   - C / C++
+   - Add comments to code cells
+   - Format content of markdown cells with heading styles
+   - Create markdown cells
    
    In this notebook, Data Science Tools and Ecosystem are summarized 
    
@@ -52,7 +44,7 @@ Some of the commonly used libraries used by Data Scientists include: <br>
 | ------------------ | <BR>
 | Jupyter | <BR>
 | RStudio | <BR>
-| Watson Studio | <BR>
+| Anaconda | <BR>
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
 
